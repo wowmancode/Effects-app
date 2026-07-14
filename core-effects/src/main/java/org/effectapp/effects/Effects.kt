@@ -1,3 +1,5 @@
+@file:OptIn(androidx.media3.common.util.UnstableApi::class)
+
 package org.effectapp.effects
 
 import androidx.media3.common.Effect
